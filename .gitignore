@@ -1,0 +1,23 @@
+# Data
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.parquet
+
+# Models
+models/*.pkl
+models/*.joblib
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
