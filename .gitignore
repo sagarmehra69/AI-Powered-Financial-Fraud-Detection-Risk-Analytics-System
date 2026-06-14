@@ -5,6 +5,12 @@ __pycache__/
 data/raw/*.csv
 data/raw/*.xlsx
 data/raw/*.parquet
+data/processed/*
+
+
+.csv
+processed_*.csv
+
 
 models/*.pkl
 models/*.joblib
