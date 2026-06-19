@@ -12,7 +12,7 @@ reports/
 .csv
 processed_*.csv
 
-
+*.pbix
 models/*.pkl
 models/*.joblib
 
